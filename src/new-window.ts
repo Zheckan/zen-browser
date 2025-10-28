@@ -5,4 +5,3 @@ export default async function Command() {
   await openNewWindow();
   await closeMainWindow();
 }
-

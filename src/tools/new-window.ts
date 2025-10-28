@@ -5,4 +5,3 @@ const tool = async () => {
 };
 
 export default tool;
-
