@@ -1,6 +1,6 @@
 # Zen Changelog
 
-## [Added error handling. Added Create New Private Window Command] - {PR_MERGE_DATE}
+## [Added error handling and new private window command] - {PR_MERGE_DATE}
 - Added error handling to the new window and private window commands.
 - Added a command to create a new private window in Zen Browser.
 
