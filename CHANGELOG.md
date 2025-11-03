@@ -1,6 +1,10 @@
 # Zen Changelog
 
-## [Added Create New Window Command] - {PR_MERGE_DATE}
+## [Added error handling. Added Create New Private Window Command] - {PR_MERGE_DATE}
+- Added error handling to the new window and private window commands.
+- Added a command to create a new private window in Zen Browser.
+
+## [Added Create New Window Command] - 2025-10-29
 
 - Added a command to create a new window in Zen Browser.
 
